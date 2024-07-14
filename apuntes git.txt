@@ -1,1 +1,4 @@
 git init -- permite crear un repo nuevo
+git status -- listar los archivos con cambios
+git commit -m "mensaje" -- crear una versión
+git log -- sirve para listar las versiones
